@@ -7,7 +7,7 @@ feature_text: |
 
 ## People
 
-* [Dr Dominic Orchard](https://dorchard.github.io/) - Lab lead
+* [Dominic Orchard](https://dorchard.github.io/) - Lab lead
 * [Benjamin Orchard](https://github.com/raehik) - Research Assistant and Research Software Engineer
 
 ## Partners
