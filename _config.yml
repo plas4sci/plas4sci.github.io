@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Programming Languages and Systems for Science Laboratory at the University of Kent'
 description: 'Website for the laboratory for Programming Languages and Systems for Science at the University of Kent'
 permalink: pretty
-logo: "https://github.com/plas4sci/plas4sci.github.io/raw/main/logo-final.png"
+logo: "https://github.com/plas4sci/plas4sci.github.io/raw/main/logo-final-small.png"
 
 # Pagination
 paginate: 5
