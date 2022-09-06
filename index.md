@@ -1,6 +1,5 @@
 ---
 title: Programming Languages and Systems for Science Lab at the University of Kent
-feature_image: "splash.png"
 feature_text: |
   ## Programming Languages and Systems for Science Lab
 ---
