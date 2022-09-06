@@ -1,6 +1,5 @@
 ---
 title: Programming Languages and Systems for Science Lab at the University of Kent
-feature_image: https://github.com/plas4sci/plas4sci.github.io/raw/main/logo-final-small.png
 feature_text: |
   ## Programming Languages and Systems for Science Lab
 ---
