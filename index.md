@@ -1,7 +1,5 @@
 ---
-title: Programming Languages and Systems for Science Lab at the University of Kent
-feature_text: |
-  ## Programming Languages and Systems for Science Lab
+layout: default
 ---
 
 <img src="https://camfort.github.io/tvcs2017/kent-logo.jpg" style="height:100px;float:right:" />
