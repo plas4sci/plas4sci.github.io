@@ -6,6 +6,6 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-.site-header: {
- padding-top:1.5em; 
+.site-header {
+ padding-top:1em; 
 }
