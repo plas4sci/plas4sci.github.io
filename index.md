@@ -17,11 +17,15 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
 ## Partners
 
-* [Institute of Computing for Climate Science](https://cambridge-iccs.github.io/), University of Cambridge
+<div style='float:left;'>
+<a href="https://cambridge-iccs.github.io/">
 <img src="https://cambridge-iccs.github.io/assets/images/iccs-uni-logo.png" style='width:100px;' />
+</a>
+</div>
 
-* Bloomberg L.P.
-<img src="https://en.wikipedia.org/wiki/File:Bloomberg_logo.svg" style='width:100px;' />
+<div style='float:left;'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Bloomberg_logo.svg" style='width:100px;' />
+</div>
 
 ## Projects
 
