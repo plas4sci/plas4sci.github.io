@@ -13,6 +13,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 * [Dominic Orchard](https://dorchard.github.io/) - Lab lead
 * [Benjamin Orchard](https://github.com/raehik) - Research Assistant and Research Software Engineer
 * [Laura Bocchi](https://www.kent.ac.uk/computing/people/3119/bocchi-laura) - Reader in Programming Languages
+* [Vilem-Benjamin Liepelt](https://github.com/buggymcbugfix/not-not-a-blog#blog) - PhD student
 
 ## Partners
 
@@ -48,13 +49,28 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 	<i>Software Engineering for Science, 2019</i>
       </td>
       </tr>
+	
+    <tr>
+    <th><a href="https://www.sciencedirect.com/science/article/pii/S0304397517301263">pdf</a>, <a href="bib/Bocchi2017.bib">bib</a>
+    </th>
+    <td><b>Monitoring networks through multiparty session types</b>, Laura Bocchi, Tzu-Chun Chen, Romain Demangeon, Kohei Honda, Nobuko Yoshida, Theoretical Computer Science 669 (2017): 33-58
+    </td>
+  </tr>	
+	
     <tr>
       <th><a href="http://dorchard.co.uk/publ/reprinter2017.pdf">pdf</a></th>
       <td><b>Scrap Your Reprinter: A Datatype Generic Algorithm for
 	Layout-Preserving Refactoring</b>,
 	Harry Clarke, Dominic Orchard, IFL 2017</td>
     </tr>
-
+	
+    <tr>
+      <th><a href="https://kar.kent.ac.uk/60506/1/art%253A10.1007%252Fs00165-017-0420-8.pdf">pdf</a>, <a href="bib/Neykova2017.bib">bib</a>
+    </th>
+      <td><b>Timed runtime monitoring for multiparty conversations</b>,
+	Rumyana Neykova, Laura Bocchi, Nobuko Yoshida, Formal Aspects Comput. 29(5): 877-910 (2017)</td>
+    </tr>
+	
     <tr>
       <th><a
 	href="https://www.repository.cam.ac.uk/bitstream/handle/1810/267779/oopsla-proof.pdf?sequence=5">pdf</a>,
@@ -98,6 +114,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
       Research</b>, Dominic Orchard, Andrew C. Rice, ICCS 2014: 713-727
     </td>
   </tr>
+
 
   <tr>
     <th><a
