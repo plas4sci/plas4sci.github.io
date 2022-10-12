@@ -68,7 +68,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
     </tr>
 	
     <tr>
-      <th><a href="https://kar.kent.ac.uk/60506/1/art%253A10.1007%252Fs00165-017-0420-8.pdf">pdf</a>, <a href="bib/Neykova2017.bib">bib</a>
+      <th><a href="https://kar.kent.ac.uk/60506/1/art%253A10.1007%252Fs00165-017-0420-8.pdf">pdf</a>, <a href="assets/bib/Neykova2017.bib">bib</a>
     </th>
       <td><b>Timed runtime monitoring for multiparty conversations</b>,
 	Rumyana Neykova, Laura Bocchi, Nobuko Yoshida, Formal Aspects Comput. 29(5): 877-910 (2017)</td>
