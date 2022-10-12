@@ -34,7 +34,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 <ul>
   {% for post in site.posts %}
     <li>
-	    {{ page.date | date: "%-d %B %Y" }} - <i><a href="{{ post.url }}">{{ post.title }}</a></i>
+	    {{ post.date | date: "%-d %B %Y" }} - <i><a href="{{ post.url }}">{{ post.title }}</a></i>
     </li>
   {% endfor %}
 </ul>
