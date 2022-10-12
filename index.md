@@ -41,7 +41,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
   <tr>
     <th><a
       href="https://www.cl.cam.ac.uk/~mrd45/se4science19.pdf">pdf</a>,
-      <a href="bib/DanishABRO19.bib">bib</a>
+      <a href="assets/bib/DanishABRO19.bib">bib</a>
     </th>
       <td><b> Learning units-of-measure from scientific code</b>,
   Matthew Danish, Miltiadis Allamanis, Marc Brockschmidt, Andrew Rice,
@@ -51,7 +51,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
       </tr>
 	
     <tr>
-    <th><a href="https://www.sciencedirect.com/science/article/pii/S0304397517301263">pdf</a>, <a href="bib/Bocchi2017.bib">bib</a>
+    <th><a href="https://www.sciencedirect.com/science/article/pii/S0304397517301263">pdf</a>, <a href="assets/bib/Bocchi2017.bib">bib</a>
     </th>
     <td><b>Monitoring networks through multiparty session types</b>, Laura Bocchi, Tzu-Chun Chen, Romain Demangeon, Kohei Honda, Nobuko Yoshida, Theoretical Computer Science 669 (2017): 33-58
     </td>
@@ -74,7 +74,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
     <tr>
       <th><a
 	href="https://www.repository.cam.ac.uk/bitstream/handle/1810/267779/oopsla-proof.pdf?sequence=5">pdf</a>,
-	<a href="bib/OrchardCDR17.bib">bib</a></th>
+	<a href="assets/bib/OrchardCDR17.bib">bib</a></th>
       <td><b>Verifying Spatial Properties of Array Computations</b>,
 	Dominic Orchard, Mistral Contrastin, Matthew Danish, Andrew
 	Rice, OOPSLA 2017</td>
@@ -82,7 +82,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
     <tr>
     <th><a
       href="http://ceur-ws.org/Vol-1686/WSSSPE4_paper_23.pdf">pdf</a>,
-       <a href="bib/ContrastinDOR16.bib">bib</a></th>
+       <a href="assets/bib/ContrastinDOR16.bib">bib</a></th>
     <td><b>Supporting software sustainability with lightweight
   specifications</b>, Mistral Contrastin, Matthew Danish, Dominic
   Orchard, Andrew Rice, WSSSPE4 (2016)
@@ -90,7 +90,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
   </tr>
 
   <tr>
-    <th><a href="http://www.cl.cam.ac.uk/~acr31/pubs/contrastin-units.pdf">pdf</a>, <a href="bib/ContrastinRDO16.bib">bib</a></th>
+    <th><a href="http://www.cl.cam.ac.uk/~acr31/pubs/contrastin-units.pdf">pdf</a>, <a href="assets/bib/ContrastinRDO16.bib">bib</a></th>
     <td><b>Units-of-Measure Correctness in Fortran
       Programs</b>, Mistral Contrastin, Andrew C. Rice, Matthew Danish, Dominic
       Orchard, Computing in Science and Engineering 18(1): 102-107 (2016)
@@ -99,7 +99,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
   <tr>
     <th><a
-      href="https://www.cs.kent.ac.uk/people/staff/dao7/publ/iccs15-fortran-units.pdf">pdf</a>, <a href="bib/OrchardRO15.bib">bib</a></th>
+      href="https://www.cs.kent.ac.uk/people/staff/dao7/publ/iccs15-fortran-units.pdf">pdf</a>, <a href="assets/bib/OrchardRO15.bib">bib</a></th>
     <td><b>Evolving Fortran types with inferred units-of-measure</b>,
       Dominic Orchard, Andrew C. Rice, Oleg Oshmyan, J. Comput. Science 9:
       156-162 (2015)
@@ -108,7 +108,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
   <tr>
     <th><a
-    href="https://www.cs.kent.ac.uk/people/staff/dao7/publ/iccs14-orchard-rice.pdf">pdf</a>, <a href="bib/OrchardR14.bib">bib</a>
+    href="https://www.cs.kent.ac.uk/people/staff/dao7/publ/iccs14-orchard-rice.pdf">pdf</a>, <a href="assets/bib/OrchardR14.bib">bib</a>
     </th>
     <td><b>A Computational Science Agenda for Programming Language
       Research</b>, Dominic Orchard, Andrew C. Rice, ICCS 2014: 713-727
@@ -118,7 +118,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
   <tr>
     <th><a
-      href="https://www.cs.kent.ac.uk/people/staff/dao7/publ/wrt13-orchard-rice.pdf">pdf</a>, <a href="bib/OrchardR13.bib">bib</a>
+      href="https://www.cs.kent.ac.uk/people/staff/dao7/publ/wrt13-orchard-rice.pdf">pdf</a>, <a href="assets/bib/OrchardR13.bib">bib</a>
     </th>
     <td><b>Upgrading Fortran source code
       using automatic refactoring</b>,
