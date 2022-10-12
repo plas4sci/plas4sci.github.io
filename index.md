@@ -17,17 +17,18 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
 ## Partners
 
-<div>
+<div style='clear:both;float:none;'>
 <div style='float:left;'>
 <a href="https://cambridge-iccs.github.io/">
-<img src="https://cambridge-iccs.github.io/assets/images/iccs-uni-logo.png" style='width:250px;' />
+<img src="https://cambridge-iccs.github.io/assets/images/iccs-uni-logo.png" style='width:200px;' />
 </a>
 </div>
 
 <div style='float:left;'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Bloomberg_logo.svg" style='width:200px;' />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Bloomberg_logo.svg" style='width:150px;' />
 </div>
 </div>
+<br />
 
 ## Projects
 
