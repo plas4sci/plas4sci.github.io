@@ -27,7 +27,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
 ## Projects
 
-* [CamFort](https://camfort.github.com), a tool for verification and static analysis of Fortran, with a particular focus on verification techniques for numerical computation. Includes the [fortran-src](https://github.com/camfort/fortran-src) static-analysis framework for Fortran, written in Haskell.
+* [CamFort](https://camfort.github.io), a tool for verification and static analysis of Fortran, with a particular focus on verification techniques for numerical computation. Includes the [fortran-src](https://github.com/camfort/fortran-src) static-analysis framework for Fortran, written in Haskell.
 
 ## News
 
