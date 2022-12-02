@@ -3,9 +3,9 @@ author:
   name: Dominic Orchard
   email: d.a.orchard@kent.ac.uk
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the home of the Programming Language and Systems for Science
+  laboratory at the University of Kent. We are a group of researchers
+  who applies PL techniques to support the work of computational scientists.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
