@@ -42,6 +42,28 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 ## Publications
 
 <table id="pubs">
+<tr>
+    <th><a
+      href="https://cambridge-iccs.github.io/climate-informatics-2023/assets/pdfs/Reducing_the_overhead_of_coupled_ML_models.pdf">pdf</a>,
+      <a href="https://dorchard.github.io/assets/bibtex/2023-coupling.txt">bib</a>
+    </th>
+      <td><b>Reducing the overhead of coupled ML models between Python and Fortran: an application to Gravity Wave Parameterizations</b>,
+  Jack Atkinson, Simon Clifford, David Connelly, Chris Edsall, Athena Elafrou, Ed Gerber, Laura Mansfield, Dominic Orchard, Aditi Sheshadri, Y. Qiang Sun, Minah Yang
+	<i>Extended abstract at
+	(<a href="https://cambridge-iccs.github.io/climate-informatics-2023/">Climate Informatics 2023</a>)</i>
+      </td>
+      </tr>
+<tr>
+    <th><a
+      href="https://meetingorganizer.copernicus.org/EGU23/EGU23-11187.html?pdf">pdf</a>,
+      <a href="https://dorchard.github.io/assets/bibtex/2023-oneflux.txt">bib</a>
+    </th>
+      <td><b>Fostering collaboration through improved software development practices for the ONEFlux eddy covariance data processing pipeline.</b>,
+  Gilberto Pastorello, Carlo Trotta, Alessio Ribeca, Keith Beattie, Sy-Toan Ngo, Housen Chu, You-Wei Cheah, Danielle Christianson, Giacomo Nicolini, Sigrid Dengel, Diego Polidori, Peter Isaac, Matthew Archer, Dominic Orchard, Deb Agarwal, Sebastien Biraud, Margaret Torn, Dario Papale.
+	<i>Presentation at 
+	(<a href="https://egu23.eu/">EGU 2023</a>)</i>
+      </td>
+      </tr>	
   <tr>
     <th><a
       href="https://arxiv.org/abs/2011.06094">pdf</a>,
