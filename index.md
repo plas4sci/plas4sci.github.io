@@ -58,7 +58,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
       href="https://meetingorganizer.copernicus.org/EGU23/EGU23-11187.html?pdf">pdf</a>,
       <a href="https://dorchard.github.io/assets/bibtex/2023-oneflux.txt">bib</a>
     </th>
-      <td><b>Fostering collaboration through improved software development practices for the ONEFlux eddy covariance data processing pipeline.</b>,
+      <td><b>Fostering collaboration through improved software development practices for the ONEFlux eddy covariance data processing pipeline</b>,
   Gilberto Pastorello, Carlo Trotta, Alessio Ribeca, Keith Beattie, Sy-Toan Ngo, Housen Chu, You-Wei Cheah, Danielle Christianson, Giacomo Nicolini, Sigrid Dengel, Diego Polidori, Peter Isaac, Matthew Archer, Dominic Orchard, Deb Agarwal, Sebastien Biraud, Margaret Torn, Dario Papale.
 	<i>Presentation at 
 	(<a href="https://egu23.eu/">EGU 2023</a>)</i>
