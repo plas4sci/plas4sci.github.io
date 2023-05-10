@@ -17,8 +17,8 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
 ## Partners
 
-<a href="https://cambridge-iccs.github.io/">
-<img src="https://cambridge-iccs.github.io/assets/images/iccs-uni-logo.png" style='width:200px;' />
+<a href="https://iccs.cam.ac.uk/">
+<img src="https://plas4sci.github.io/iccs-logo.jpg" style='width:280px;' />
 </a>
 &nbsp;
 &nbsp;
@@ -60,10 +60,10 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
     </th>
       <td><b>Fostering collaboration through improved software development practices for the ONEFlux eddy covariance data processing pipeline</b>,
   Gilberto Pastorello, Carlo Trotta, Alessio Ribeca, Keith Beattie, Sy-Toan Ngo, Housen Chu, You-Wei Cheah, Danielle Christianson, Giacomo Nicolini, Sigrid Dengel, Diego Polidori, Peter Isaac, Matthew Archer, Dominic Orchard, Deb Agarwal, Sebastien Biraud, Margaret Torn, Dario Papale.
-	<i>Presentation at 
+	<i>Presentation at
 	(<a href="https://egu23.eu/">EGU 2023</a>)</i>
       </td>
-      </tr>	
+      </tr>
   <tr>
     <th><a
       href="https://arxiv.org/abs/2011.06094">pdf</a>,
@@ -86,28 +86,28 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 	<i>Software Engineering for Science, 2019</i>
       </td>
       </tr>
-	
+
     <tr>
     <th><a href="https://www.sciencedirect.com/science/article/pii/S0304397517301263">pdf</a>, <a href="assets/bib/Bocchi2017.bib">bib</a>
     </th>
     <td><b>Monitoring networks through multiparty session types</b>, Laura Bocchi, Tzu-Chun Chen, Romain Demangeon, Kohei Honda, Nobuko Yoshida, Theoretical Computer Science 669 (2017): 33-58
     </td>
-  </tr>	
-	
+  </tr>
+
     <tr>
       <th><a href="http://dorchard.co.uk/publ/reprinter2017.pdf">pdf</a></th>
       <td><b>Scrap Your Reprinter: A Datatype Generic Algorithm for
 	Layout-Preserving Refactoring</b>,
 	Harry Clarke, Dominic Orchard, IFL 2017</td>
     </tr>
-	
+
     <tr>
       <th><a href="https://kar.kent.ac.uk/60506/1/art%253A10.1007%252Fs00165-017-0420-8.pdf">pdf</a>, <a href="assets/bib/Neykova2017.bib">bib</a>
     </th>
       <td><b>Timed runtime monitoring for multiparty conversations</b>,
 	Rumyana Neykova, Laura Bocchi, Nobuko Yoshida, Formal Aspects Comput. 29(5): 877-910 (2017)</td>
     </tr>
-	
+
     <tr>
       <th><a
 	href="https://www.repository.cam.ac.uk/bitstream/handle/1810/267779/oopsla-proof.pdf?sequence=5">pdf</a>,
@@ -163,4 +163,3 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
     </td>
   </tr>
 </table>
-
