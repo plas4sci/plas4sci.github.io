@@ -18,7 +18,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 ## Partners
 
 <a href="https://iccs.cam.ac.uk/">
-<img src="https://plas4sci.github.io/assets/images/iccs-logo.jpg" style='width:280px;' />
+<img src="https://plas4sci.github.io/assets/images/iccs-logo.jpg" style='width:350px;' />
 </a>
 &nbsp;
 &nbsp;
