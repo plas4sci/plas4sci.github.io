@@ -11,10 +11,13 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 ## People
 
 * [Dominic Orchard](https://dorchard.github.io/) - Lab lead
-* [Benjamin Orchard](https://github.com/raehik) - Research Assistant and Research Software Engineer
 * [Laura Bocchi](https://www.kent.ac.uk/computing/people/3119/bocchi-laura) - Reader in Programming Languages
-* [Vilem-Benjamin Liepelt](https://github.com/buggymcbugfix/not-not-a-blog#blog) - PhD student
+* [Daniel Marshall](https://starsandspira.ls/) - Research Assistant
 
+## Former members
+
+* [Benjamin Orchard](https://github.com/raehik) - Research Assistant and Research Software Engineer
+  
 ## Partners
 
 <a href="https://iccs.cam.ac.uk/">
@@ -27,7 +30,9 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
 ## Projects
 
-* [CamFort](https://camfort.github.io), a tool for verification and static analysis of Fortran, with a particular focus on verification techniques for numerical computation. Includes the [fortran-src](https://github.com/camfort/fortran-src) static-analysis framework for Fortran, written in Haskell.
+* [CamFort](https://camfort.github.io), a tool for verification and static analysis of Fortran, with a particular focus on verification techniques for numerical computation.
+
+* [fortran-src](https://github.com/camfort/fortran-src), a static-analysis framework for Fortran, written in Haskell.
 
 ## News
 
