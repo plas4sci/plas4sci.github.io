@@ -47,6 +47,32 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 ## Publications
 
 <table id="pubs">
+
+<tr>
+    <th><a
+      href="https://meetingorganizer.copernicus.org/EGU24/EGU24-17852.html?pdf">pdf</a>,
+      <a href="https://plas4sci.github.io/assets/bib/OrchardEGU24.bib">bib</a>
+    </th>
+      <td><b>FTorch - lowering the technical barrier of incorporating ML into Fortran models</b>,
+  Dominic Orchard, Elliott Kasoar, Jack Atkinson, Thomas Meltzer, Simon Clifford, and Athena Elafrou.
+	<i>Presentation at
+	(<a href="https://">EGU 2024</a>)</i>
+      </td>
+      </tr>
+
+
+<tr>
+    <th><a
+      href="https://meetingorganizer.copernicus.org/EGU24/EGU24-18057.html?pdf">pdf</a>,
+      <a href="https://plas4sci.github.io/assets/bib/Atkinson2024.bib">bib</a>
+    </th>
+      <td><b>Tools and techniques for modular, portable (Machine Learning) parameterisations</b>,
+  Jack Atkinson, Dominic Orchard, Elliott Kasoar, and Thomas Meltzer.
+	<i>Presentation at
+	(<a href="https://">EGU 2024</a>)</i>
+      </td>
+      </tr>
+
 <tr>
     <th><a
       href="https://cambridge-iccs.github.io/climate-informatics-2023/assets/pdfs/Reducing_the_overhead_of_coupled_ML_models.pdf">pdf</a>,
