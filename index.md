@@ -126,7 +126,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
   </tr>
 
     <tr>
-      <th><a href="http://dorchard.co.uk/publ/reprinter2017.pdf">pdf</a></th>
+      <th><a href="https://www.cs.kent.ac.uk/people/staff/dao7/publ/reprinter2017.pdf">pdf</a></th>
       <td><b>Scrap Your Reprinter: A Datatype Generic Algorithm for
 	Layout-Preserving Refactoring</b>,
 	Harry Clarke, Dominic Orchard, IFL 2017</td>
