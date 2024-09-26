@@ -12,11 +12,11 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
 * [Dominic Orchard](https://dorchard.github.io/) - Lab lead
 * [Laura Bocchi](https://www.kent.ac.uk/computing/people/3119/bocchi-laura) - Reader in Programming Languages
-* [Daniel Marshall](https://starsandspira.ls/) - Research Assistant
 
 ## Former members
 
 * [Benjamin Orchard](https://github.com/raehik) - Research Assistant and Research Software Engineer
+* [Danielle Marshall](https://starsandspira.ls/) - Research Assistant
   
 ## Partners
 
