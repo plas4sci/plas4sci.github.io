@@ -17,6 +17,11 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
 * [Benjamin Orchard](https://github.com/raehik) - Research Assistant and Research Software Engineer
 * [Danielle Marshall](https://starsandspira.ls/) - Research Assistant
+
+## External members
+
+* [Roly Perera](https://dynamicaspects.org/research/) - Senior Research Associate at ICCS in Cambridge
+* Jay Torry - Dominic's PhD student in Cambridge
   
 ## Partners
 
