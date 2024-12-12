@@ -29,9 +29,6 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 <img src="https://plas4sci.github.io/assets/images/iccs-logo.jpg" style='width:350px;' />
 </a>
 &nbsp;
-&nbsp;
-&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Bloomberg_logo.svg" style='width:150px;' />
 
 ## Projects
 
