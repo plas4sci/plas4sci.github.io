@@ -12,6 +12,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
 * [Dominic Orchard](https://dorchard.github.io/) - Lab lead
 * [Laura Bocchi](https://www.kent.ac.uk/computing/people/3119/bocchi-laura) - Reader in Programming Languages
+* [Chinmayi Baramashetru](https://scholar.google.com/citations?user=Uy018TAAAAAJ&hl=en) - Postdocatoral Research Associate
 
 ## Former members
 
