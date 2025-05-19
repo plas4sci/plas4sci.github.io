@@ -59,7 +59,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
       <td><b>FTorch - lowering the technical barrier of incorporating ML into Fortran models</b>,
   Dominic Orchard, Elliott Kasoar, Jack Atkinson, Thomas Meltzer, Simon Clifford, and Athena Elafrou.
 	<i>Presentation at
-	(<a href="https://">EGU 2024</a>)</i>
+	(<a href="https://www.egu24.eu/">EGU 2024</a>)</i>
       </td>
       </tr>
 
@@ -72,7 +72,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
       <td><b>Tools and techniques for modular, portable (Machine Learning) parameterisations</b>,
   Jack Atkinson, Dominic Orchard, Elliott Kasoar, and Thomas Meltzer.
 	<i>Presentation at
-	(<a href="https://">EGU 2024</a>)</i>
+	(<a href="https://www.egu24.eu/">EGU 2024</a>)</i>
       </td>
       </tr>
 
