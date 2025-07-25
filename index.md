@@ -53,6 +53,50 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
 <tr>
     <th><a
+      href="https://doi.org/10.1145/3736112.3736141">pdf</a>,
+      <a href="https://plas4sci.github.io/assets/bib/BachurskiMO25.bib">bib</a>
+    </th>
+      <td><b>Structuring Arrays with Algebraic Shapes</b>,
+  Jakub Bachurski, Alan Mycroft, Dominic Orchard.
+	<i>ARRAY@PLDI 2025: 1-16</i>
+      </td>
+      </tr>
+
+<tr>
+    <th><a
+      href="https://doi.org/10.1007/978-3-031-91118-7_6">pdf</a>,
+      <a href="https://plas4sci.github.io/assets/bib/BondDNOP25.bib">bib</a>
+    </th>
+      <td><b>Cognacy Queries over Dependence Graphs for Transparent Visualisations</b>,
+  Joseph Bond, Cristina David, Minh Nguyen, Dominic Orchard, Roly Perera.
+	<i>ESOP (1) 2025: 144-171</i>
+      </td>
+      </tr>
+
+<tr>
+    <th><a
+      href="https://doi.org/10.21105/joss.07602">pdf</a>,
+      <a href="https://plas4sci.github.io/assets/bib/AtkinsonEKWMCOE25.bib">bib</a>
+    </th>
+      <td><b>FTorch: a library for coupling PyTorch models to Fortran</b>,
+  Jack Atkinson, Athena Elafrou, Elliott Kasoar, Joseph G. Wallwork, Thomas Meltzer, Simon Clifford, Dominic Orchard, Chris Edsall.
+	<i>J. Open Source Softw. 10(109): 7602 (2025)</i>
+      </td>
+      </tr>
+
+<tr>
+    <th><a
+      href="https://doi.org/10.21105/joss.07571">pdf</a>,
+      <a href="https://plas4sci.github.io/assets/bib/ContrastinCDOORX25.bib">bib</a>
+    </th>
+      <td><b>fortran-src: Fortran static analysis infrastructure</b>,
+  Mistral Contrastin, Raoul Hidalgo Charman, Matthew Danish, Benjamin Orchard, Dominic Orchard, Andrew Rice, Jason Xu.
+	<i>J. Open Source Softw. 10(106): 7571 (2025)</i>
+      </td>
+      </tr>
+
+<tr>
+    <th><a
       href="https://meetingorganizer.copernicus.org/EGU24/EGU24-17852.html?pdf">pdf</a>,
       <a href="https://plas4sci.github.io/assets/bib/OrchardEGU24.bib">bib</a>
     </th>
