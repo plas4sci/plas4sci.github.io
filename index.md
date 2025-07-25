@@ -122,6 +122,28 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
 <tr>
     <th><a
+      href="https://doi.org/10.1145/3689492.3689812">pdf</a>,
+      <a href="https://plas4sci.github.io/assets/bib/AishFOT24.bib">bib</a>
+    </th>
+      <td><b>Programming Languages for the Future of Design Computation</b>,
+  Robert Aish, Al Fisher, Dominic Orchard, Jay Torry.
+	<i>Onward! 2024: 241-265</i>
+      </td>
+      </tr>
+
+<tr>
+    <th><a
+      href="https://doi.org/10.48550/arXiv.2406.02174">pdf</a>,
+      <a href="https://plas4sci.github.io/assets/bib/DanishOR24.bib">bib</a>
+    </th>
+      <td><b>Incremental units-of-measure verification</b>,
+  Matthew Danish, Dominic Orchard, Andrew Rice.
+	<i>CoRR abs/2406.02174 (2024)</i>
+      </td>
+      </tr>
+
+<tr>
+    <th><a
       href="https://cambridge-iccs.github.io/climate-informatics-2023/assets/pdfs/Reducing_the_overhead_of_coupled_ML_models.pdf">pdf</a>,
       <a href="https://dorchard.github.io/assets/bibtex/2023-coupling.txt">bib</a>
     </th>
