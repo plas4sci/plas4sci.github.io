@@ -53,6 +53,17 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
 <tr>
     <th><a
+      href="https://doi.org/10.1145/3759536.3763801">pdf</a>,
+      <a href="https://plas4sci.github.io/assets/bib/BaramashetruO25.bib">bib</a>
+    </th>
+      <td><b>Towards Modelling and Verification of Coupler Behaviour in Climate Models</b>,
+  Chinmayi Baramashetru, Dominic Orchard.
+	<i>PROPL '25: 1-7</i>
+      </td>
+      </tr>
+
+<tr>
+    <th><a
       href="https://doi.org/10.1145/3736112.3736141">pdf</a>,
       <a href="https://plas4sci.github.io/assets/bib/BachurskiMO25.bib">bib</a>
     </th>
@@ -95,16 +106,6 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
       </td>
       </tr>
 
-<tr>
-    <th><a
-      href="https://doi.org/10.1145/3759536.3763801">pdf</a>,
-      <a href="https://plas4sci.github.io/assets/bib/BaramashetruO25.bib">bib</a>
-    </th>
-      <td><b>Towards Modelling and Verification of Coupler Behaviour in Climate Models</b>,
-  Chinmayi Baramashetru, Dominic Orchard.
-	<i>PROPL '25: 1-7</i>
-      </td>
-      </tr>
 
 <tr>
     <th><a
