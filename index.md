@@ -97,6 +97,28 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
 <tr>
     <th><a
+      href="https://doi.org/10.1145/3759536.3763801">pdf</a>,
+      <a href="https://plas4sci.github.io/assets/bib/BaramashetruO25.bib">bib</a>
+    </th>
+      <td><b>Towards Modelling and Verification of Coupler Behaviour in Climate Models</b>,
+  Chinmayi Baramashetru, Dominic Orchard.
+	<i>PROPL '25: 1-7</i>
+      </td>
+      </tr>
+
+<tr>
+    <th><a
+      href="https://doi.org/10.1145/3736112.3736141">pdf</a>,
+      <a href="https://plas4sci.github.io/assets/bib/BachurskiMO25.bib">bib</a>
+    </th>
+      <td><b>Structuring Arrays with Algebraic Shapes</b>,
+  Jakub Bachurski, Alan Mycroft, Dominic Orchard.
+	<i>ARRAY@PLDI 2025: 1-16</i>
+      </td>
+      </tr>
+
+<tr>
+    <th><a
       href="https://meetingorganizer.copernicus.org/EGU24/EGU24-17852.html?pdf">pdf</a>,
       <a href="https://plas4sci.github.io/assets/bib/OrchardEGU24.bib">bib</a>
     </th>
