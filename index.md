@@ -1,4 +1,4 @@
----
+git ---
 layout: default
 ---
 
@@ -51,6 +51,16 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
 <table id="pubs">
 
+<tr><th><a
+href="https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2011380">html</a>,
+      <a href="https://plas4sci.github.io/assets/bib/LeQuere2026.bib">bib</a>
+    </th>
+      <td><b>Towards Ocean System Models to Address Marine Challenges</b>,
+  Corinne Le Quere, Lionel Guidi, Laurent Bopp, Philip W Boyd, BB Cael, Matthew J Church, Damien Eveillard, Stephanie Henson, Joe K Guest, Olivier Jaillon, Fabien Lombard, Louis Legendre, MarieFanny Racault, Simon Ramondenc, Matt Sullivan, Dominic Orchard, Alessandro Tagliabue, Thelma Panaïotis, Philip Townsend, Meike Vogt, Rui Zhang.
+	<i>2026 Ocean Sciences Meeting (AGU)</i>
+      </td>
+      </tr>
+
 <tr>
     <th><a
       href="https://doi.org/10.1145/3759536.3763801">pdf</a>,
@@ -59,8 +69,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
       <td><b>Towards Modelling and Verification of Coupler Behaviour in Climate Models</b>,
   Chinmayi Baramashetru, Dominic Orchard.
 	<i>PROPL '25: 1-7</i>
-      </td>
-      </tr>
+      </td></tr>
 
 <tr>
     <th><a
