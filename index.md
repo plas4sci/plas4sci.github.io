@@ -1,4 +1,4 @@
-git ---
+---
 layout: default
 ---
 
@@ -22,6 +22,7 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 ## External members
 
 * [Roly Perera](https://dynamicaspects.org/research/) - Senior Research Associate at ICCS in Cambridge
+* [Nikolaus Huber](https://nikolaushuber.github.io/) - Research Associate at ICCS in Cambridge
 * Jay Torry - Dominic's PhD student in Cambridge
   
 ## Partners
