@@ -52,6 +52,17 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
 <table id="pubs">
 
+<tr>
+    <th><a
+      href="https://arxiv.org/pdf/2604.26967">pdf</a>,
+      <a href="https://plas4sci.github.io/assets/bib/BondPDMMOP26.bib">bib</a>
+    </th>
+      <td><b>Literate Execution</b>,
+  Joseph Bond, Jacob Pake, Cristina David, Andrew McNutt, Trevor Sseguya Muwonge, Dominic Orchard, Roly Perera.
+	<i>Accepted and presented at <a href="https://2026.plateau-workshop.org/">PLATEAU 2026</a> (16th Annual Workshop on the Intersection of HCI and PL)</i>
+      </td>
+      </tr>
+
 <tr><th><a
 href="https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2011380">html</a>,
       <a href="https://plas4sci.github.io/assets/bib/LeQuere2026.bib">bib</a>
