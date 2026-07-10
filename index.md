@@ -52,15 +52,17 @@ of the [PLAS group](https://research.kent.ac.uk/programming-languages-systems/) 
 
 <table id="pubs">
 
-<tr>
+   <tr>
     <th><a href="https://plas4sci.github.io/assets/propl26-position.pdf">pdf</a>
     </th>
     <td><b>Mind the Gap: General-Purpose Programming Languages Impede
 Scientific Model Development and Communication</b>,
   Dominic Orchard. <i>Position paper at <a href="https://pldi26.sigplan.org/home/propl-2026">3rd ACM Workshop
   on Programming for the Planet (PROPL) 2026</a></i>
-    </td></tr>
+    </td>
+    </tr>
 
+    <tr>
     <th><a
       href="https://arxiv.org/pdf/2604.26967">pdf</a>,
       <a href="https://plas4sci.github.io/assets/bib/BondPDMMOP26.bib">bib</a>
