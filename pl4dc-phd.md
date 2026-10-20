@@ -4,7 +4,7 @@ nav_exclude: true
 ---
 
 # 3.5 year PhD scholarship (International/Home) on Programming languages for Design Computation
-{: style="font-size: 2.4em; font-weight: 700;"}
+{: style="font-size: 1.7em; font-weight: 700;"}
 
 One view of programming languages research is as an open-ended exploration into the way people and computers can express and comprehend logic and reasoning in an executable form. The goal of this PhD project is to apply this research theme to another equally open-ended process of exploration, that of advanced physical architecture and building engineering via Design Computation. 
 
