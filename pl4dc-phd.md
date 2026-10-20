@@ -19,25 +19,25 @@ This is an opportunity for some original language research; the potential exists
 A recent position paper [2] by the primary supervisor, external partner, and industrial sponsor sets out a vision of problems faced in DC and possible areas for exploration, including to:
 
 
-Better support the pathway from visual programming to textual programming through bidirectional translations and explanations between the two forms, potentially leveraging LLMs to aid exploratory and translational activities;
+- Better support the pathway from visual programming to textual programming through bidirectional translations and explanations between the two forms, potentially leveraging LLMs to aid exploratory and translational activities;
 
 
-Develop flexible interactive programming patterns via bidirectional transformations between code and visual outputs (e.g., modifying a 3D design and having the code update correspondingly);
+- Develop flexible interactive programming patterns via bidirectional transformations between code and visual outputs (e.g., modifying a 3D design and having the code update correspondingly);
 
 
-Explore program verification techniques that give machine-checkable assurances about design-computation logic and constraints;
+- Explore program verification techniques that give machine-checkable assurances about design-computation logic and constraints;
 
 
-Augment design-computational languages with domain-specific concepts in their type system, e.g., to better express domain meaning and enforce constraints statically. This could include, e.g., units-of-measure analysis, tolerances, precision, and error;
+- Augment design-computational languages with domain-specific concepts in their type system, e.g., to better express domain meaning and enforce constraints statically. This could include, e.g., units-of-measure analysis, tolerances, precision, and error;
 
 
-Build collaborative programming support, suited to multi-representations across distributed, multidisciplinary architecture and engineering teams, embedding provenance and auditability;
+- Build collaborative programming support, suited to multi-representations across distributed, multidisciplinary architecture and engineering teams, embedding provenance and auditability;
 
 
-Develop approaches for codifying design, project, and institutional knowledge that integrates different, potentially hybrid, forms of computation, analysis, and reasoning (human and artificial intelligence), across different skill levels.
+- Develop approaches for codifying design, project, and institutional knowledge that integrates different, potentially hybrid, forms of computation, analysis, and reasoning (human and artificial intelligence), across different skill levels.
 
 
-Build upon existing open-source knowledge representation systems (e.g., the Buildings and Habitats object Model https://bhom.xyz/) to aid interoperation across a variety of stakeholders.
+- Build upon existing open-source knowledge representation systems (e.g., the Buildings and Habitats object Model https://bhom.xyz/) to aid interoperation across a variety of stakeholders.
 
 
 This is a non-exhaustive list and other related topics could also be considered. 
