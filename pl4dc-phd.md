@@ -1,8 +1,10 @@
 ---
 layout: default
+nav_exclude: true
 ---
 
 # 3.5 year PhD scholarship (International/Home) on Programming languages for Design Computation
+{: style="font-size: 2.4em; font-weight: 700;"}
 
 One view of programming languages research is as an open-ended exploration into the way people and computers can express and comprehend logic and reasoning in an executable form. The goal of this PhD project is to apply this research theme to another equally open-ended process of exploration, that of advanced physical architecture and building engineering via Design Computation. 
 
@@ -42,10 +44,10 @@ A recent position paper [[2]](#ref2) by the primary supervisor, external partner
 
 This is a non-exhaustive list and other related topics could also be considered. 
 
-<a id="ref1"></a>[1] Aish, Robert & Bredella, Nathalie. (2017). The evolution of architectural computing: from Building Modelling to Design Computation. Architectural Research Quarterly. 21. 65-73. 10.1017/S1359135517000185. https://www.researchgate.net/publication/320926142_The_evolution_of_architectural_computing_from_Building_Modelling_to_Design_Computation
+<a id="ref1"></a>[1] Aish, Robert & Bredella, Nathalie. (2017). The evolution of architectural computing: from Building Modelling to Design Computation. Architectural Research Quarterly. 21. 65-73. 10.1017/S1359135517000185. <https://www.researchgate.net/publication/320926142_The_evolution_of_architectural_computing_from_Building_Modelling_to_Design_Computation>
 
 <a id="ref2"></a>[2] Aish, Robert, et al. "Programming languages for the future of design computation." Proceedings of the 2024 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software. 2024.
-https://dl.acm.org/doi/pdf/10.1145/3689492.3689812
+<https://dl.acm.org/doi/pdf/10.1145/3689492.3689812>
 
 ## Fund criteria
 
