@@ -3,6 +3,10 @@ layout: default
 nav_exclude: true
 ---
 
+<style>
+.page-content p, .page-content li { text-align: justify; }
+</style>
+
 # 3.5 year PhD scholarship (International/Home) on Programming languages for Design Computation
 {: style="font-size: 1.7em; font-weight: 700;"}
 
