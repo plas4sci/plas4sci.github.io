@@ -18,7 +18,7 @@ At the heart of DC is programming, which must then be expressed in some programm
 
 This PhD project responds to the challenge: how can the unique ways of collaborative thinking and reasoning, which characterise the multi-disciplinary design of physical architecture and building engineering, be supported by new forms of programming languages, programming systems, and programming tools?
 
-The funding for this international scholarship is kindly provided with the support of Buro Happold who will act as an industrial partner throughout this PhD project. To help answer the particular challenges addressed in this PhD, the candidate will be supported by collaboration with the advanced industrial practice within the sponsoring organisation. This will provide both the opportunity to gain insight from industry engineers in industry, and to consider the route to impact and deployment. 
+The funding for this international scholarship is kindly provided with the support of Buro Happold who will act as an industrial partner throughout this PhD project. To help answer the particular challenges addressed in this PhD, the candidate will be supported by collaboration with the advanced industrial practice within the sponsoring organisation. This will provide both the opportunity to gain insight from engineers in industry, and to consider the route to impact and deployment. 
 
 This is an opportunity for some original language research; the potential exists for the ideas and methods developed in this specific domain to evolve into more general-purpose programming paradigms (following in the path of important historical precedents). 
 
