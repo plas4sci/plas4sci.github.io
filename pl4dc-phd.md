@@ -70,11 +70,13 @@ The University of Kent requires all non-native speakers of English to hold a min
 When applying, students should follow the University of Kent's [online application process](https://www.kent.ac.uk/courses/postgraduate/apply#pgr). As part of the process, students should include the following:
 
 - make it clear the applicant wants to be considered for the PL4DC PhD studentship on the application;
-- explain reasons for including **a research proposal** (of roughly 4-5 pages), setting forward a vision of what the PhD might look like (though students should not feel beholden to the proposal);
+- explain reasons for including **a research proposal** (of roughly 4-5 pages), setting forward a vision of what the PhD might look like (though students should not feel beholden to the proposal). The research proposal should articulate the candidate's vision for the PhD, including concrete ideas, related literature, and how they plan to analyse and evaluate such ideas. 
 - provide details/evidence of qualifications;
 - provide two academic references;
 - provide other personal information and supporting documentation;
 - Applicants may contact the supervisor, Dr. Dominic Orchard, before applying if they wish to discuss, particular around research proposal ideas.
+
+
 
 ## Deadline
 
