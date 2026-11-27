@@ -10,9 +10,11 @@ nav_exclude: true
 # 3.5 year PhD scholarship (International/Home) on Programming languages for Design Computation
 {: style="font-size: 1.7em; font-weight: 700;"}
 
+[Apply here](https://www.kent.ac.uk/scholarships/search/FNADPLDCOM01).
+
 One view of programming languages research is as an open-ended exploration into the way people and computers can express and comprehend logic and reasoning in an executable form. The goal of this PhD project is to apply this research theme to another equally open-ended process of exploration, that of advanced physical architecture and building engineering via Design Computation. 
 
-Design Computation (DC) is an approach in architecture, engineering, and construction that leverages computation to generate building designs, manage the associated data, and evaluate decision decisions [[1]](#ref1). DC differs to CAD-based design modelling, where the designer uses interactive geometry applications to manually create the finished building design. With this form of direct modelling there are no opportunities to record the rationale for the design and any subsequent design exploration requires further arduous manual edits. In Design Computation however, programs are written to generate the designs themselves as their output, explicitly programming the logic and method of its realisation, and enabling design intent to be more easily captured. The modification and re-execution of the program allows the designer to efficiently explore a larger solution space of alternatives or other forms of optimisation. 
+Design Computation (DC) is an approach in architecture, engineering, and construction that leverages computation to generate building designs, manage the associated data, and evaluate design decisions [[1]](#ref1). DC differs from CAD-based design modelling, where the designer uses interactive geometry applications to manually create the finished building design. With this form of direct modelling there are no opportunities to record the rationale for the design and any subsequent design exploration requires further arduous manual edits. In Design Computation, however, programs are written to generate the designs themselves as their output, explicitly programming the logic and method of their realisation, and enabling design intent to be more easily captured. The modification and re-execution of the program allows the designer to efficiently explore a larger solution space of alternatives or other forms of optimisation. 
 
 At the heart of DC is programming, which must then be expressed in some programming language or languages. Both textual programming languages and visual programming languages are widely deployed in this space; some of these are general purpose and others are specialised, used only in these domains.
 
@@ -67,7 +69,10 @@ The University of Kent requires all non-native speakers of English to hold a min
 
 ## How to apply
 
-When applying, students should follow the University of Kent's [online application process](https://www.kent.ac.uk/courses/postgraduate/apply#pgr). As part of the process, students should include the following:
+When applying, students should follow the University of Kent's [online application process](https://www.kent.ac.uk/courses/postgraduate/apply#pgr).  The scholarship page to apply
+is [here](https://www.kent.ac.uk/scholarships/search/FNADPLDCOM01).
+
+As part of the process, students should include the following:
 
 - make it clear the applicant wants to be considered for the PL4DC PhD studentship on the application;
 - explain reasons for including **a research proposal** (of roughly 4-5 pages), setting forward a vision of what the PhD might look like (though students should not feel beholden to the proposal). The research proposal should articulate the candidate's vision for the PhD, including concrete ideas, related literature, and how they plan to analyse and evaluate such ideas. 
